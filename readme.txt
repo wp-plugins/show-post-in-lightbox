@@ -6,7 +6,7 @@ Author: Opensourcetechnologies
 Author URI: http://www.opensourcetechnologies.com/ 
 Stable tag: 1.0
 Requires at least: 3.0.1
-Tested up to: 3.8.1
+Tested up to: 3.9
 License: GPLv3 or later
 
 Display the list of posts by selected category and view a particular post in lightbox.
