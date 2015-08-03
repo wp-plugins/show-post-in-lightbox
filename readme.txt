@@ -16,7 +16,7 @@ Display the list of posts by selected category and view a particular post in lig
 <p>This plugin will provide functionality you to show posts from a category into a post/page using the [ostlist] shortcode.</p>
 <p> This shortcode accepts a category id, the order in which you want the posts to display, and the number of posts to display. You can use [ostlist] as many times as needed with different arguments. Usage: [ostlist argument1=value1 argument2=value2].</p>
 
-
+For video tutorial : <a href="https://www.youtube.com/watch?v=HB8RTgTCs9E&feature=youtu.be">Click here</a>
 == Installation ==
 
 1. Download show-posts-in-lightbox.zip
